@@ -1,0 +1,23 @@
+{
+  "name": "adoptMe",
+  "version": "1.0.0",
+  "description": "React v6",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/no0ro/adoptMe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/no0ro/adoptMe/issues"
+  },
+  "homepage": "https://github.com/no0ro/adoptMe#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
